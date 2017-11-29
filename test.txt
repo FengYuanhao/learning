@@ -1,2 +1,3 @@
 just check the manual of Git
 Now , second step
+work stage & version control system
